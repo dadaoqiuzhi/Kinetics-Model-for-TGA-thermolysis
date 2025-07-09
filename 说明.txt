@@ -1,0 +1,1 @@
+thermo_kinetic_fit为主程序，按要求将输入数据放入input_data.xlsx中
